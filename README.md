@@ -1,2 +1,4 @@
-# python-tools
-各种python的小工具，例如切分文件
+# python工具集
+包含如下功能
+    切分文件
+    转Excel2007为JSON格式
