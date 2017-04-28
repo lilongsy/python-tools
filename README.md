@@ -1,6 +1,6 @@
 # python工具集
 包含如下功能：
 
-* 切分文件
-* 转Excel2007为JSON格式
-* 按行导入文本文件到MySQL数据库
+* [切分文件](https://github.com/lilongsy/python-tools/blob/master/slice.py)
+* [转Excel2007为JSON格式](https://github.com/lilongsy/python-tools/tree/master/Excel2Json)
+* [按行导入文本文件到MySQL数据库](https://github.com/lilongsy/python-tools/tree/master/Txt2Mysql)
